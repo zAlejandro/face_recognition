@@ -1,7 +1,7 @@
 # face_recognition
 
 # INSTRUCCIONES:
-> ejecutar el script main.py
+> ejecutar el script main.py >
 > pasale lo que pide (el nombre de quien deseas reconocer y la ruta de un video de esa persona)
 > esperar a que saque los fotogramas
 > luego ejecutar el script entrenamiento.py
