@@ -1,4 +1,6 @@
 # face_recognition
+este es un proyecto simplecito de reconocimiento facial el cual principalmente era un proyecto de la universidad, no tiene mucha complejidad pero esta bien como base
+ de un proyecto mas elaborado
 
 # INSTRUCCIONES:
 ejecutar el script main.py
