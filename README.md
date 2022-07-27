@@ -11,7 +11,7 @@ esperar a que saque los fotogramas
 >
 luego ejecutar el script entrenamiento.py
 > 
-reivsar que se haya generado el modelo en la raiz del proyecto
+revisar que se haya generado el modelo en la raiz del proyecto
 > 
 por ultimo ejecutar el script reconocimiento_facial.py
 
